@@ -1,0 +1,2 @@
+# computational-musicology
+Course portfolio
